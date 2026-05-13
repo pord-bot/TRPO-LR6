@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\home\\source\\repos\\pord-bot\\TRPO-LR6\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C3CFFA3-1436-C2F0-CDA9-0D7C28E4D2B1}|calculatorapp\\calculatorapp.csproj|c:\\users\\home\\source\\repos\\pord-bot\\trpo-lr6\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C3CFFA3-1436-C2F0-CDA9-0D7C28E4D2B1}|calculatorapp\\calculatorapp.csproj|solutionrelative:calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +39,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\home\\source\\repos\\pord-bot\\TRPO-LR6\\calculatorapp\\Program.cs",
+              "RelativeDocumentMoniker": "calculatorapp\\Program.cs",
+              "ToolTip": "C:\\Users\\home\\source\\repos\\pord-bot\\TRPO-LR6\\calculatorapp\\Program.cs",
+              "RelativeToolTip": "calculatorapp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:54:46.42Z",
+              "EditorCaption": ""
             }
           ]
         },
